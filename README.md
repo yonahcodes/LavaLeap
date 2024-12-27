@@ -1,7 +1,7 @@
 # Lava Leap - 2D Platformer Game
 
 ## Description
-This project was developed as part of an **Introduction to Video Game Programming** course. The game is a platformer created using `Unity`, integrating class concepts such as character animations, keyboard controls, platform design with `2DSpriteShape`, and interactive objects animated using the `Timeline`.
+This project was developed as part of an **Introduction to Video Game Programming** course. The game is a platformer created using `Unity`, integrating class concepts such as character animations, keyboard controls, platform design with `2DSpriteShape`, interactive objects animated using the `Timeline`, and custom game logic implemented in `C#` scripts. These scripts manage character behavior, camera dynamics, accessory interactions, and core gameplay mechanics.
 
 ## Key Features
 
@@ -47,6 +47,17 @@ This project was developed as part of an **Introduction to Video Game Programmin
   - Features a graphical start screen with background music. The game starts upon clicking a button.
 - **Lives Display**:
   - Displays the character's remaining lives using visual icons that reflect the character's current state.
+
+### Scripts in C#
+- The project includes custom C# scripts that manage:
+  - **Camera Controls**:
+    - A script ensures the camera dynamically tracks the character and stays within the game boundaries.
+  - **Character Behavior**:
+    - Handles character movement, animations (rolling, crouching, and jumping), and interactions with accessories.
+  - **Accessory Interactions**:
+    - Manages collision detection and specific behaviors for bonus, malus, and mortem accessories.
+  - **Game Logic**:
+    - Implements game mechanics such as life tracking, game restart logic, and background music management.
 
 ## Requirements
 - **Unity Version**: `LTS 2022.3.40f1`
