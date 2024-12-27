@@ -67,5 +67,5 @@ This project was developed as part of an **Introduction to Video Game Programmin
 - Clone the repository:
 
   ```bash
-  git clone https://github.com/yourusername/your-repository.git
+  git clone https://github.com/yonahcodes/LavaLeap.git
   ```
