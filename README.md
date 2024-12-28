@@ -3,7 +3,7 @@
 ![Lava Leap Game](LavaLeapScreenshots.png)
 
 ## Description
-This project was developed as part of an **Introduction to Video Game Programming** course. The game is a platformer created using `Unity`, integrating class concepts such as character animations, keyboard controls, platform design with `2DSpriteShape`, interactive objects animated using the `Timeline`, and custom game logic implemented in `C#` scripts. These scripts manage character behavior, camera dynamics, accessory interactions, and core gameplay mechanics.
+This game is a 2D platformer created using `Unity`, integrating class concepts such as character animations, keyboard controls, platform design with `2DSpriteShape`, interactive objects animated using the `Timeline`, and custom game logic implemented in `C#` scripts. These scripts manage character behavior, camera dynamics, accessory interactions, and core gameplay mechanics.
 
 ## Key Features
 
